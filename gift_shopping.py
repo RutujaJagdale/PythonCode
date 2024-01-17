@@ -66,3 +66,33 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+''' Solution for python code 
+
+python gift_shopping.py
+Enter the quantity of Product A you want to purchase: 5
+Is Product A gift wrapped? (yes/no): yes
+Product A: Quantity: 5, Total Amount: $105
+
+Enter the quantity of Product B you want to purchase: 20
+Is Product B gift wrapped? (yes/no): yes
+Product B: Quantity: 20, Total Amount: $820
+
+Enter the quantity of Product C you want to purchase: 30
+Is Product C gift wrapped? (yes/no): no
+Product C: Quantity: 30, Total Amount: $1500
+
+Product Details:
+Product A: Quantity: 5, Total: $20
+Product B: Quantity: 20, Total: $40
+Product C: Quantity: 30, Total: $50
+
+Subtotal: $110
+Discount Applied: tiered_50_discount - $55.0
+Gift Wrap Fee: $55
+Shipping Fee: $25
+
+Total: $135.0
+
+'''

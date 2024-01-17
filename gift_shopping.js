@@ -92,3 +92,24 @@ async function calculateTotalCost() {
 //  to calculate total cost
 calculateTotalCost();
 
+
+// solution for Javascript Code 
+
+// node gift_shopping.js
+// Enter the quantity for Product A: 10
+// Is Product A wrapped as a gift? (yes/no): no
+// Enter the quantity for Product B: 25
+// Is Product B wrapped as a gift? (yes/no): yes
+// Enter the quantity for Product C: 30
+// Is Product C wrapped as a gift? (yes/no): no
+// Product A - Quantity: 10, Total: $200
+// Product B - Quantity: 25, Total: $1000
+// Product C - Quantity: 30, Total: $1500
+// Subtotal: $2690.00
+// Discount Applied: flat_10_discount, Amount: $10.00
+// Shipping Fee: $35
+// Gift Wrap Fee for Product A: $0
+// Gift Wrap Fee for Product B: $25
+// Gift Wrap Fee for Product C: $0
+// Total: $2750.00
+
